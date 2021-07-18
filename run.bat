@@ -1,1 +1,1 @@
-start cmd.exe cd C:\Users\admin\Desktop\SWSERVER\server
+start cmd.exe cd C:\Users\admin\xiutai
